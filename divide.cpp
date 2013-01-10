@@ -7,7 +7,7 @@ int main()
 	cin>> n1;
 	cout << "enter second number:";
 	cin>> n2;
-	cout << n1%%%%%n2;
+	cout << n1/n2;
 	return 0;
 
 
